@@ -1,0 +1,14 @@
+How to run
+Open terminal in c:\Users\NEW USER\Desktop\ReactWebAI\backend
+
+npm install
+npm start
+
+Open another terminal in c:\Users\NEW USER\Desktop\ReactWebAI
+
+npm install
+npm run dev
+Visit:
+
+frontend: http://localhost:5173
+backend: http://localhost:4000

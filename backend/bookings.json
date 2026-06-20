@@ -1,0 +1,30 @@
+{
+  "bookings": [
+    {
+      "id": 1781846075675,
+      "userId": 1781844272221,
+      "userEmail": "amrutathakare1212@gmail.com",
+      "tourTitle": "Darjeeling Tea Route",
+      "tourLocation": "West Bengal",
+      "fullName": "dhiraj",
+      "email": "amruta@gmail.com",
+      "phone": "+91 7745058768",
+      "startDate": "2026-06-26",
+      "guests": 1,
+      "bookedAt": "2026-06-19T05:14:35.675Z"
+    },
+    {
+      "id": 1781846352530,
+      "userId": 1781844272221,
+      "userEmail": "amrutathakare1212@gmail.com",
+      "tourTitle": "Darjeeling Tea Route",
+      "tourLocation": "West Bengal",
+      "fullName": "Amurta",
+      "email": "amruta@gmail.com",
+      "phone": "+91 7745058768",
+      "startDate": "2026-06-24",
+      "guests": 1,
+      "bookedAt": "2026-06-19T05:19:12.530Z"
+    }
+  ]
+}
