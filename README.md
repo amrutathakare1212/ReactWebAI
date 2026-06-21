@@ -85,3 +85,21 @@ npm run preview
 - The frontend now connects to a local Node.js backend for login and signup.
 - After logging in, the page opens a home view with Indian tour information.
 - The Google button is a UI demo and does not connect to Google authentication in this version.
+
+
+GITHUB PUSH CODE : 
+
+GITHUB PULL : IF SOMEONE ELSE ADDED CHANGES IN GITHUB PULL IT BY => 
+```git pull```
+
+GITHUB STATUS :
+```git status```
+
+AFTER CHANGES : 
+```git add <file_name> or git add .```
+
+AFTER COMMTT : 
+```git commit -m " add message```
+
+GIT PUSH :
+```git push```
